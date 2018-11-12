@@ -1,0 +1,11 @@
+Opening screen to press (buttons) play or view instructions
+Show twenty cards on screen (10 pairs) that are randomly shuffled
+  cards will be images
+Three levels means different time to view the cards
+First level: 10 seconds
+Second level: 5 seconds
+Third Level: 2 seconds
+User has to try and match and all the pairs
+Time limit of 2 minutes to match all the cards
+If user fails one level, they cannot move to the next level (restart the level user is on)
+If user passes all three levels, they will have the option to close the screen or restart and play over
