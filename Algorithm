@@ -1,0 +1,12 @@
+Opening screen to press play or view instructions (buttons)
+Show twenty cards on screen (10 pairs) that are randomly shuffled
+cards are imported images to java
+Three levels means different number of cards
+First level: 10 cards
+Second level: 20 cards??
+Third Level: 22 cards??
+User has to try and match and all the pairs
+Time limit of 2 minutes to match all the cards
+If user does not pass the level (surpasses the two minutes), they do not move onto the next level
+They have the option of either restarting the current level or closing the game
+If user does pass all levels, they will have the option of closing the screen or restarting the whole game
