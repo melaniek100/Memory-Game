@@ -1,0 +1,42 @@
+Ask if they want to play or view instructions
+	If view instructions is pressed, then show them a white page with instructions on it.
+	If play is pressed they are brought to the first level.
+Ask them what mode they want to play
+	If easy mode is chosen then they put on level one
+		If they match all the cards before the timer or chances going to zero
+			Text display that says nice job
+				Asks if they would like to proceed to the next level
+		If the chances or timer count = 0 before all the matches complete then 
+			It displays text that they lost
+				Asks if they want to play again
+					If no then 
+						Text display that says have a great day
+					If yes then
+						Then starts from the play command
+	If medium mode is chosen then they put on level two
+		If they match all the cards before the timer or chances going to zero
+Text display that says nice job
+				Asks if they would like to proceed to the next level
+		If the chances or timer count = 0 before all the matches complete then 
+			It displays text that they lost
+				Asks if they want to play again
+					If no then 
+						Text display that says have a great day
+					If yes then
+						Then starts from the play command
+	If hard mode is chosen then they put on level three
+		If they match all the cards chances going to zero
+			Texts pops up and says that they won the game
+				Asks if they want to play again
+					If no then 
+						Text display that says have a great day
+					If yes then
+						Then starts from the play command
+		If the chances or timer count = 0 before all the matches complete then 
+			It displays text that they lost
+				Asks if they want to play again
+					If no then 
+						Text display that says have a great day
+						Terminate program
+					If yes then
+						Then starts from the play command
