@@ -1,0 +1,9 @@
+- Opening Screen that allows users to choose between starting the game and the instructions
+- If instructions is chosen, program will display how the game is played
+- When game is started, tic tac toe screen appears
+- Two players represented by the Xs and Os
+- Players can take turn placing Xs and Os in the proper position
+- The first player to complete a row, column, or diagonal earns one point
+  - At any point during the game, the user will be able to restart or exit the game
+  - To keep playing again, the user must reset the round
+- The player who has gotten the most points is the winner; depending on which player wins the exit screen will appear differently
