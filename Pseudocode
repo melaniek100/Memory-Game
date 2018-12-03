@@ -1,0 +1,23 @@
+Ask if they want to play or view instructions
+	If view instructions is pressed, then show them a page with instructions on it.
+	If play is pressed they are brought to the tic tac toe
+X’s turn
+	If X clicks a tile then the tile gets covered with a X
+O’s turn then 
+	If O clicks a tile then the tile gets covered with a O
+They take turns and do it back and forth
+	If O is three in a row 
+		Then it says that O won
+			1 point gets added to the score for O
+				If ok is clicked then they are brought to the tic tac toe board
+					If  reset is clicked then the board is reset
+					If exit is clicked then the window is terminated
+	If X is three in a row
+		Then it says that X won
+			1 point gets added to the score for X
+				If ok is clicked then they are brought to the tic tac toe board
+					If  reset is clicked then the board is reset
+					If exit is clicked then the window is terminated
+
+Twist:
+You can take over spots, even though someone is using it
